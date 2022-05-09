@@ -1,5 +1,4 @@
 from collections import namedtuple
-from nis import cat
 import pygame
 import random
 
