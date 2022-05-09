@@ -13,8 +13,8 @@ python3 <filename>.py
 
 ### Snake
 
-[Snake](snake.png)
+![Snake](snake.png)
 
 ### Space Invader
 
-[Space Invader](space_invader.png)
+![Space Invader](space_invader.png)
