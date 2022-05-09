@@ -14,7 +14,7 @@ class SpaceInvader:
         self.width = width
         self.height = height
         self.display = pygame.display.set_mode((self.width, self.height))
-        pygame.display.set_caption("Snake Game")
+        pygame.display.set_caption("Space Invaders")
     
         self.reset()
 
